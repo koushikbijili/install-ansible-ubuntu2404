@@ -23,4 +23,4 @@ You can use this script to quickly set up Ansible on any new Ubuntu machine by r
 Run the below command in your Ubuntu 24.04 terminal:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/koushikbijili/install-ansible-ubuntu2404/refs/heads/master/install-ansible.sh  | bash
+curl -fsSL https://raw.githubusercontent.com/koushikbijili/install-ansible-ubuntu2404/refs/heads/master/install-ansible.sh  | sudo bash
